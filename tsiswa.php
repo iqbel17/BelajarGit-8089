@@ -3,6 +3,7 @@ require_once('lib/DBClass.php');
 require_once('lib/m_siswa.php');
 require_once('lib/m_nationality.php');
 
+//perubahan line 7
 $siswa = new Siswa();
 $nation = new nationality();
 
